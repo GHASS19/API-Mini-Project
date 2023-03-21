@@ -1,3 +1,3 @@
 # API-Mini-Project
 
-![image](https://user-images.githubusercontent.com/86930309/226737099-a80c50bc-f662-445d-b51b-bf1c6501d126.png)
+![image](https://user-images.githubusercontent.com/86930309/226737249-7f9aec3b-565e-48c7-b9b2-aef42306a11a.png)
