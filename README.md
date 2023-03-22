@@ -1,4 +1,4 @@
-# API-Mini-Project
+# API Mini Project
 
 ![image](https://user-images.githubusercontent.com/86930309/227035074-1aa284fe-b863-4293-82e8-03e0bba95a8a.png)
 
