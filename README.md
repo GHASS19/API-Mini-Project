@@ -20,16 +20,16 @@ print(type(json_data))
 
 ## 3. Calculate what the highest and lowest opening prices were for the stock in this period.
 
-In 2017 the highest price was 53.11 and lowest price was 34.0
+In 2017 the highest price was 53.11 and lowest price was 34.0.
 
 ## 4. What was the largest change in any one day (based on High and Low price)?
 
-The largest change in any one day for 2017 was 2.81
+The largest change in any one day for 2017 was 2.81.
 
 ## 5. What was the largest change between any two days (based on Closing Price)?
 
-The largest change between any two days is 2.56
+The largest change between any two days is 2.56.
 
 ## 6. What was the average daily trading volume during this year?
 
-The average daily trading volume in 2017 is 89124.34
+The average daily trading volume in 2017 is 89124.34.
